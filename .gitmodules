@@ -1,0 +1,9 @@
+[submodule "p9typescript.b"]
+	path = p9typescript.b
+	url = https://github.com/SidneyShaw7/p9typescript.b.git
+[submodule "p9typescript.c"]
+	path = p9typescript.c
+	url = https://github.com/SidneyShaw7/p9typescript.c.git
+[submodule "typescript.d"]
+	path = typescript.d
+	url = https://github.com/SidneyShaw7/typescript.d.git
